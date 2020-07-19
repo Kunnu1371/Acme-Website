@@ -1,5 +1,5 @@
 ### Acme Website
-* professional
+* Professional
 * Static 
 * Responsive and mobile friendly 
-* made with HTML and CSS only
+* Made with HTML and CSS only
