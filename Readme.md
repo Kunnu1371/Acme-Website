@@ -1,2 +1,2 @@
 ### A professional Acme Website which is responsive and mobile friendly. 
-### It is made with HTML and CSS only
+### It is a static website made with HTML and CSS only
